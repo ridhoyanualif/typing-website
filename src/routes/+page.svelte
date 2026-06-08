@@ -186,4 +186,4 @@
     </div>
 {/if}
 
-<span class="absolute bottom-5 right-5 text-black text-2xl text-gray-400">this is a typing test, hit your spacebar to jump to the next word | <a href="" class="hover:text-black transition font-mono underline">r-type</a></span>
+<span class="absolute bottom-5 right-5 text-black text-2xl text-gray-400">this is a typing test, hit your spacebar to jump to the next word | <a href="https://github.com/ridhoyanualif/typing-website" class="hover:text-black transition font-mono underline">r-type</a></span>
